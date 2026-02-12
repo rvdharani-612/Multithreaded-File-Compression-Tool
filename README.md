@@ -41,3 +41,5 @@ Modular function design and structured programming
 The project is suitable for academic demonstrations in operating systems, system programming, and data structures courses. It highlights how computational tasks can be divided and executed concurrently to improve performance. Although the compression algorithm used is simple, the architectural design reflects real-world parallel processing systems where workloads are distributed among multiple processing units.
 
 In conclusion, the Multithreaded File Compression Tool effectively demonstrates the practical implementation of file compression and parallel programming in C++. It combines algorithmic logic, concurrency control, and performance benchmarking into a single cohesive application. This project not only showcases technical proficiency in C++ but also provides insight into how modern software leverages multithreading to optimize performance.
+
+![Image](https://github.com/user-attachments/assets/08b9b6a1-b694-4e10-b146-6c156b1e57f0)
